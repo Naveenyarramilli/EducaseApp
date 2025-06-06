@@ -12,30 +12,5 @@ The app features a centered mobile interface on the webpage with smooth navigati
 - Styling done using modern CSS techniques (e.g., styled-components or Tailwind CSS)
 - Hosted live on [Vercel](https://your-vercel-url.vercel.app) *(replace with actual URL)*
 
-## Installation and Running Locally
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Naveenyarramilli/EducaseApp.git
-
-   Technologies Used
-React JS
-
-React Router DOM
-
-Styled Components / Tailwind CSS
-
-JavaScript (ES6+)
-
-Code Quality
-Modular and reusable components
-
-Consistent code formatting with Prettier/ESLint
-
-Meaningful commit messages and version control using Git and GitHub
-
-Author
-Naveen Yarramilli
-GitHub: https://github.com/Naveenyarramilli
-
 
 
